@@ -1,0 +1,3 @@
+Step1: terraform init
+Step2: terraform plan // to review 
+Step3: terraform apply
