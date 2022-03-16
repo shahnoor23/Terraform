@@ -1,3 +1,4 @@
 Step1: terraform init
 Step2: terraform plan // to review 
 Step3: terraform apply
+Step4: terraform destroy // to destroy all config in current directory
